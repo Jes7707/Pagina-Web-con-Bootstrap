@@ -1,0 +1,77 @@
+body{
+    background-color: #F44336;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 36pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
+    color: white;
+    text-align: center;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imagenYtexto{
+    background-color: white;
+    align-content: center;
+    width: 50%;
+    margin: auto;
+}
+table{
+    vertical-align: middle;
+    background-color: white;
+    margin: 0px 10px 10px 10px ;
+}
+#textoTabla{
+    vertical-align: middle;
+    text-align: justify;
+    font-size: 30px;
+    padding-right: 15px;
+}
+#imagenTabla{
+    padding: 20px 50px 20px 50px;
+}
+#chatIcon{
+    background-color: orange;
+    padding: 0px 5px 1px 5px;
+    width: fit-content;
+    vertical-align: bottom;
+    
+}
+#chatIcon2{
+    background-color: orange;
+    padding: 0px 5px 1px 5px;
+    width: fit-content;
+    vertical-align: top;
+}
+#objetivoDiv{
+    background-color: transparent;
+    height: fit-content;
+}
+#tableObjetivo{
+    background-color: transparent;
+    font-size: small;
+    text-align: justify;
+    padding: 10px;
+}
+th, td{
+    padding: 0px 10px;
+}
+#HeadtablaObjetivoImagenes{
+    font-size: 36pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    vertical-align: bottom;
+    border-bottom: 0px solid #F44336;
+    color: white;
+}
+#DataTableObjetivo{
+    vertical-align: top;
+    border-top: 0px solid #F44336;
+    border-bottom: 15px solid #F44336;
+    color: white;
+}
